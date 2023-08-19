@@ -1,0 +1,5 @@
+Berhasil:
+1. splashscreen
+2. login
+3. login lanjut
+4. dashboard
